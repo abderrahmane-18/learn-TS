@@ -1,1 +1,2 @@
-console.log (Math.floor(4.5));
+let arr =  [1,2,3,4];
+console.log(arr);
